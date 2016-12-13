@@ -18,4 +18,4 @@ hs_err_pid*
 .idea/
 
 #输出文件目录
-#out/
+out/
