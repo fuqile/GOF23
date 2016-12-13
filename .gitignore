@@ -16,3 +16,6 @@ hs_err_pid*
 
 #开发工具.idea文件夹
 .idea/
+
+#输出文件目录
+#out/
