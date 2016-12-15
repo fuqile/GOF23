@@ -9,7 +9,7 @@ import com.githing.create.builder.bean.AirShip;
 public class TestClient {
 
     public static void main(String[] args) {
-        //new 一个组装者,需要传入一个构建者
+        //bridge 一个组装者,需要传入一个构建者
         AirShipDirector director = new FirstDirector(new FirstShipBuilder());
         //通过组装者组装一个AirShip飞船
         AirShip airShip = director.createAirShip();

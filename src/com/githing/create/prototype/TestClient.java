@@ -124,7 +124,7 @@ public class TestClient {
             ShallowSheep shallowSheep = new ShallowSheep();
         }
         long endTime = System.currentTimeMillis();
-        System.out.println("new 耗时: " + (endTime - startTime));
+        System.out.println("bridge 耗时: " + (endTime - startTime));
     }
 
     /**

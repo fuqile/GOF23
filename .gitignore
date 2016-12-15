@@ -18,7 +18,6 @@ logs
 results
 npm-debug.log
 node_modules
-*.log
 *.sqlite
 .DS_Store
 .DS_Store?
